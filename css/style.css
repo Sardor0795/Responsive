@@ -31,6 +31,9 @@
 
 header{
     background-color: #F6F9FF;
+    position: sticky;
+    top: 0;
+    z-index: 200;
 }
 
 header .container{
